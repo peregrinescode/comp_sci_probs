@@ -51,7 +51,7 @@ def fib6(n: int) -> Generator[int, None, None]:
 
 
 if __name__ == '__main__':
-	# print(fib6(10))
+	print(fib2(10))
 	# print(fib6(50))
-	for i in fib6(50):
-		print(i)
+	# for i in fib6(50):
+	# 	print(i)
